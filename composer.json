@@ -1,0 +1,15 @@
+{
+    "name": "kitamurakunihiko/enum-test",
+    "autoload": {
+        "psr-4": {
+            "Kitamurakunihiko\\EnumTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kitamurakunihiko",
+            "email": "fourthkwitht_9292@yahoo.co.jp"
+        }
+    ],
+    "require": {}
+}
